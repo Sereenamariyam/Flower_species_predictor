@@ -1,4 +1,4 @@
-##Flower Species Predictor
+## Flower Species Predictor
 
 A basic machine learning web application built as part of my learning journey. This simple app predicts iris flower species based on four physical measurements.
 
@@ -16,7 +16,7 @@ This project was created to practice:
 - Creating web applications with Streamlit
 - Deploying apps to the cloud
 
-## 🛠️ Built With
+## 🛠Built With
 
 - **Python** - Programming language
 - **Streamlit** - Web application framework
